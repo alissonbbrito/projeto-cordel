@@ -5,7 +5,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Parkinsans:wght@300..800&family=Passion+One&family=Poppins&family=Sriracha&display=swap');
 
 
-
 :root{
     --fonte1: Verdana, Geneva, Tahoma, sans-serif;
     --fonte2: 'Passion One', serif;
@@ -82,7 +81,7 @@ section.imagem > p{
 }
 
 section#img01{
-    background-image: url(/imagens/background001.jpg);
+    background-image: url(../imagens/background001.jpg);
     background-position: right center;
     text-shadow: 1px 1px 0px black; 
     
@@ -90,7 +89,7 @@ section#img01{
 }
 
 section#img02{
-    background-image: url(/imagens/background002.jpg);
+    background-image: url(../imagens/background002.jpg);
     background-position: right center;
     
 }
